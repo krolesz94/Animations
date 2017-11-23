@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="eltűnik">Eltűnik</string>
+    <string name="előjön">Előjön</string>
+    <string name="pattog">Pattog</string>
+    <string name="közelítés">Közelítés</string>
+    <string name="távolítás">Távolítás</string>
+    <string name="forgatás">Forgatás</string>
+    <string name="animáció_indítás">Animáció indítás</string>
+</resources>

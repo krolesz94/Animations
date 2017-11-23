@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">20171123_FadInFadeOut</string>
+    <string name="eltűnik">Fade out</string>
+    <string name="előjön">Fade in</string>
+    <string name="pattog">Bounce</string>
+    <string name="közelítés">Zoom in</string>
+    <string name="távolítás">Zoom out</string>
+    <string name="forgatás">Rotate</string>
+    <string name="animáció_indítás">Start Animation</string>
+</resources>
